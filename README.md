@@ -1,4 +1,4 @@
 # Sonu-Demo
 This is my first Repository
 <br>
-Author-Sonu Singh
+Author-Chauhan(Sonu Singh)
